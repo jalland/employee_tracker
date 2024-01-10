@@ -11,7 +11,7 @@ https://github.com/jalland/employee_tracker
 ## Video Recording
 The screen recording of this application's functionality is here:
 
-INSERT VIDEO RECORDING
+https://drive.google.com/file/d/1s4L512ZHNu49IiDT80EuJc2qiFTNwOw3/view 
 
 
 
